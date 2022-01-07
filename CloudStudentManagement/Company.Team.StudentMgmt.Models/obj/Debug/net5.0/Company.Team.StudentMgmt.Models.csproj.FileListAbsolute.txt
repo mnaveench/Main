@@ -1,0 +1,12 @@
+C:\A\Git\Github\Main\CloudStudentManagement\Company.Team.StudentMgmt.Models\bin\Debug\net5.0\Company.Team.StudentMgmt.Models.deps.json
+C:\A\Git\Github\Main\CloudStudentManagement\Company.Team.StudentMgmt.Models\bin\Debug\net5.0\Company.Team.StudentMgmt.Models.dll
+C:\A\Git\Github\Main\CloudStudentManagement\Company.Team.StudentMgmt.Models\bin\Debug\net5.0\ref\Company.Team.StudentMgmt.Models.dll
+C:\A\Git\Github\Main\CloudStudentManagement\Company.Team.StudentMgmt.Models\bin\Debug\net5.0\Company.Team.StudentMgmt.Models.pdb
+C:\A\Git\Github\Main\CloudStudentManagement\Company.Team.StudentMgmt.Models\obj\Debug\net5.0\Company.Team.StudentMgmt.Models.csproj.AssemblyReference.cache
+C:\A\Git\Github\Main\CloudStudentManagement\Company.Team.StudentMgmt.Models\obj\Debug\net5.0\Company.Team.StudentMgmt.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\A\Git\Github\Main\CloudStudentManagement\Company.Team.StudentMgmt.Models\obj\Debug\net5.0\Company.Team.StudentMgmt.Models.AssemblyInfoInputs.cache
+C:\A\Git\Github\Main\CloudStudentManagement\Company.Team.StudentMgmt.Models\obj\Debug\net5.0\Company.Team.StudentMgmt.Models.AssemblyInfo.cs
+C:\A\Git\Github\Main\CloudStudentManagement\Company.Team.StudentMgmt.Models\obj\Debug\net5.0\Company.Team.StudentMgmt.Models.csproj.CoreCompileInputs.cache
+C:\A\Git\Github\Main\CloudStudentManagement\Company.Team.StudentMgmt.Models\obj\Debug\net5.0\Company.Team.StudentMgmt.Models.dll
+C:\A\Git\Github\Main\CloudStudentManagement\Company.Team.StudentMgmt.Models\obj\Debug\net5.0\ref\Company.Team.StudentMgmt.Models.dll
+C:\A\Git\Github\Main\CloudStudentManagement\Company.Team.StudentMgmt.Models\obj\Debug\net5.0\Company.Team.StudentMgmt.Models.pdb

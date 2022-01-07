@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "SXJW/eSIr4lM4JmT1k+a1iHfH8LDRAeQBhTidOAfrXKEF1khLwoU/GjaX6wLOEeJU5eGUUWAtG/Vjqf2NbmxHA==",
+  "success": true,
+  "projectFilePath": "C:\\A\\Git\\Github\\Main\\CloudStudentManagement\\Company.Team.StudentMgmt.StudentService\\Company.Team.StudentMgmt.StudentService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mnave\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\mnave\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\mnave\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\mnave\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\mnave\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\mnave\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

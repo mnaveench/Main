@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2deb5e67-0351-40dc-80e9-cea8c62b8c47": {
+      "ProjectGuid": "2deb5e67-0351-40dc-80e9-cea8c62b8c47",
+      "DisplayName": "Company.Team.StudentMgmt.Models",
+      "ColorIndex": 0
+    },
+    "ed595d84-6318-4e42-955e-282c01b8bb07": {
+      "ProjectGuid": "ed595d84-6318-4e42-955e-282c01b8bb07",
+      "DisplayName": "Company.Team.StudentMgmt.StudentService",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
