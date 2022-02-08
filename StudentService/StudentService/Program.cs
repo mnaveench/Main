@@ -5,6 +5,7 @@ using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Http;
 using System.Threading.Tasks;
 
 namespace StudentService
@@ -22,5 +23,16 @@ namespace StudentService
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+
+        public static void ClientCall()
+        {
+            using (HttpClient client = new HttpClient())
+            {
+                client.DefaultRequestHeaders.Clear();
+                client.BaseAddress = new Uri("");
+                client.DefaultRequestHeaders.Authorization = new System.Net.Http.Headers.AuthenticationHeaderValue("Bearer", "token");
+
+            }
+        }
     }
 }

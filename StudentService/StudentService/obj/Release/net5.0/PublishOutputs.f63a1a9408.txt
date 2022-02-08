@@ -1,0 +1,11 @@
+C:\A\Git\Github\Main\StudentService\StudentService\obj\Release\net5.0\PubTmp\Out\StudentService.exe
+C:\A\Git\Github\Main\StudentService\StudentService\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\A\Git\Github\Main\StudentService\StudentService\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\A\Git\Github\Main\StudentService\StudentService\obj\Release\net5.0\PubTmp\Out\StudentService.dll
+C:\A\Git\Github\Main\StudentService\StudentService\obj\Release\net5.0\PubTmp\Out\StudentService.deps.json
+C:\A\Git\Github\Main\StudentService\StudentService\obj\Release\net5.0\PubTmp\Out\StudentService.runtimeconfig.json
+C:\A\Git\Github\Main\StudentService\StudentService\obj\Release\net5.0\PubTmp\Out\StudentService.pdb
+C:\A\Git\Github\Main\StudentService\StudentService\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\A\Git\Github\Main\StudentService\StudentService\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\A\Git\Github\Main\StudentService\StudentService\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\A\Git\Github\Main\StudentService\StudentService\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
